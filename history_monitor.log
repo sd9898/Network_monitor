@@ -1,0 +1,11 @@
+2025-02-05 23:13:04,938 - INFO - Starting Chrome history monitoring...
+2025-02-05 23:13:04,953 - INFO - Scanning https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset?select=CEAS_08.csv
+2025-02-05 23:13:10,290 - INFO - Scanning https://meet.google.com/
+2025-02-05 23:13:10,788 - INFO - Scanning https://meet.google.com/about
+2025-02-05 23:13:11,221 - INFO - Scanning https://apps.google.com/meet/
+2025-02-05 23:13:11,653 - INFO - Scanning https://workspace.google.com/products/meet/
+2025-02-05 23:13:12,085 - INFO - Scanning https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset?select=Ling.csv
+2025-02-05 23:13:12,579 - INFO - Scanning https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
+2025-02-05 23:13:13,074 - INFO - Scanning https://www.kaggle.com/search?q=phishing+email+dataset+in%3Adatasets
+2025-02-05 23:13:14,242 - INFO - Scanning https://www.kaggle.com/search?q=phishing+email+dataset
+2025-02-05 23:13:14,745 - INFO - Scanning https://www.kaggle.com/discussions/questions-and-answers/305068
