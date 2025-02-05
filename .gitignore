@@ -1,0 +1,5 @@
+# Exclude log files and sensitive data
+history_monitor.log
+network_data.json
+*.db
+*.json
